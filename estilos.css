@@ -34,8 +34,8 @@ section {
 
 .img {
     position: relative;
-    width: 120px;
-    height: 120px;
+    width: 170px;
+    height: 170px;
     padding: 5px;
     cursor: pointer;
     will-change: width, height;
@@ -104,8 +104,8 @@ section {
 
     
     .img{
-        width: 60px;
-        height: 60px;
+        width: 110px;
+        height: 110px;
         padding: 2.5px;
     }
 
