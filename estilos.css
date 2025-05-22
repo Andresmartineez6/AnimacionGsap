@@ -1,5 +1,4 @@
 
-
 *{
     margin: 0;
     padding: 0;
@@ -35,8 +34,8 @@ section {
 
 .img {
     position: relative;
-    width: 70px;
-    height: 70px;
+    width: 120px;
+    height: 120px;
     padding: 5px;
     cursor: pointer;
     will-change: width, height;
